@@ -121,8 +121,6 @@ Distributed systems / system design
 <a href="https://leetcode.com/u/Ashyy14/"><img src="https://leetcard.jacoblin.cool/Ashyy14?theme=dark&font=Karma&ext=heatmap" alt="Ashyy14 LeetCode stats" /></a>
 </div>
 
-**113 problems solved:** 79 C++ · 25 JavaScript · 9 MySQL.
-
 The goal isn't a streak screenshot. It's getting better at recognizing the pattern when the answer isn't obvious.
 
 ---
